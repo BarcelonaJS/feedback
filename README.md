@@ -15,6 +15,6 @@ We strive to improve BarcelonaJS, however, we need your help.  Please provide us
 We really do review all the issues and try to make things better, no matter how small they may seem!
 
 Thanks,
-<3 BarcelonaJS team
+BarcelonaJS Team
 
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/barcelona-js/discuss)
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/barcelona-js)
